@@ -5,3 +5,7 @@ This project uses jQuery, CSS3, and css-bezier in graphics code samples with lin
 ```
 https://github.com/ocampesato/jquery-css3-graphics#jquery-css3-graphics
 ```
+Best viewed while listening to music that sounds something like this (the best ones are around the mid-point):
+```
+https://www.youtube.com/watch?v=Z-LyvotnXBA
+```
